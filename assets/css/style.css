@@ -597,10 +597,10 @@ header{
     .navbar-responsive > .navbar-cta{
         font-size: 1.6em;
     }
-    .reklama-info{
+    .abus-info{
         width: 80%;
     }
-    .reklama-slide{
+    .abus-slide{
         width: 80%;
     }
     .firms > img{
@@ -683,15 +683,15 @@ header{
     .navbar-responsive > .navbar-cta{
         font-size: 1.4em;
     }
-    .reklama-info{
+    .abus-info{
         margin-left: 5px;
         width: 80%;
     }
-    .reklama-slide{
+    .abus-slide{
         width: 80%;
     }
 
-    .reklama-info > a{
+    .abus-info > a{
         width: 100px;
         margin: 0 5px;
         font-size: .8em;
