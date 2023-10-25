@@ -153,7 +153,7 @@ header{
     align-items: center;
 }
 
-.reklama{
+.abus{
     max-width: 1240px;
     width: 100%;
     display: flex;
@@ -162,28 +162,28 @@ header{
     flex-wrap: wrap;
 }
 
-.reklama-info{
+.abus-info{
     margin-left: 10px;
     width: 45%;
 }
 
-.reklama-info > p{
+.abus-info > p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #848B92;
     font-size: .8em;
 }
 
-.reklama-info > h2{
+.abus-info > h2{
     font-family: 'Roboto', sans-serif;
     font-size: 1.8em;
 }
 
-.reklama-info > h3{
+.abus-info > h3{
     font-family: 'Montserrat', sans-serif;
     font-size: 1.4em;
 }
 
-.reklama-info > a{
+.abus-info > a{
     width: 200px;
     margin: 0 10px;
     border-radius: 10px;
@@ -199,15 +199,15 @@ header{
     color: #FFFFF2;
 }
 
-.reklama-info > a:hover{
+.abus-info > a:hover{
     background: linear-gradient(360deg, #4F32A5, #A67DBE);
 }
 
-.reklama-slide{
+.abus-slide{
     width: 45%;
 }
 
-.reklama-slide > img{
+.abus-slide > img{
     width: 100%;
 }
 
